@@ -17,3 +17,5 @@ console.log("El lado 2 del triangulo mide: " + ladoCuadrado+ "cm");
 
 const ladoTriangulo3 = 4;
 console.log("El lado 3 del triangulo mide: " + ladoCuadrado+ "cm");
+
+// PRUEBA!
